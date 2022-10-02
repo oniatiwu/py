@@ -1,5 +1,5 @@
 import webbrowser
 import time
 
-webbrowser.open('https://alist-oniati.koyeb.app/')
+webbrowser.open('https://yun.oniati.co/onedrive')
 time.sleep(60)
